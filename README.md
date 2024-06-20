@@ -12,3 +12,7 @@ This is a simple Python project, with nix, to produce Munsell color charts with 
 | Munsell Chart with Averaged Chromas | ![Image](images/Figure_2.png) |
 | Munsell Chart with Protanopia | ![Image](images/Figure_3.png) |
 | Munsell Chart with Protanopia and Averaged Chromas | ![Image](images/Figure_4.png) |
+| Munsell Chart with Deuteranopia | ![Image](images/Figure_5.png) |
+| Munsell Chart with Deuteranopia and Averaged Chromas | ![Image](images/Figure_6.png) |
+| Munsell Chart with Tritanopia | ![Image](images/Figure_7.png) |
+| Munsell Chart with Tritanopia and Averaged Chromas | ![Image](images/Figure_8.png) |
